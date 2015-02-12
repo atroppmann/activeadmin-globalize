@@ -18,4 +18,3 @@ Gem::Specification.new do |s|
   s.add_dependency "activeadmin"
   s.add_dependency "globalize", '~> 5.0.0'
 end
-
